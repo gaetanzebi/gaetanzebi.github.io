@@ -1,5 +1,17 @@
 .page1{
-    height: 1792px;
-    width: 828px;
+    height: 2340px;
+    width: 1080px;
     background-color: rgb(50, 103, 250);
+}
+
+.page2{
+    height: 2340px;
+    width: 1080px;
+    background-color: rgb(50, 250, 127);
+}
+
+.page3{
+    height: 2340px;
+    width: 1080px;
+    background-color: rgb(250, 230, 50);
 }
